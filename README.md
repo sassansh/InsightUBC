@@ -42,7 +42,7 @@ Backend: [Node](https://nodejs.org/en/)
 Frontend: [Restify](http://restify.com/)
 | [JavaScript](https://www.javascript.com/)
 | [HTML](https://html.spec.whatwg.org/)
-| [CSS](hhttps://www.w3.org/Style/CSS/Overview.en.html)
+| [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 Testing:| [Chai](https://www.chaijs.com/)
 | [Mocha](https://mochajs.org/)
