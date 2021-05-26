@@ -44,7 +44,7 @@ Frontend: [Restify](http://restify.com/)
 | [HTML](https://html.spec.whatwg.org/)
 | [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
-Testing:| [Chai](https://www.chaijs.com/)
+Testing: [Chai](https://www.chaijs.com/)
 | [Mocha](https://mochajs.org/)
 | [Karma](https://karma-runner.github.io/6.3/index.html)
 
