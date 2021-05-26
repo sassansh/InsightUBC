@@ -7,7 +7,7 @@
   <h2 align="center">InsightUBC ✨</h2>
 
   <p align="center">
-    A full-stack web app that provides a way to effectively query course & room metadata from around campus.
+    A full-stack web app that provides a way to effectively query course & room metadata from around campus. Built as a group project for UBC CPSC 310 ( Introduction to Software Engineering).
     <br />
     <br />
     <a href="https://sassanshokoohi.ca">About Me</a>
