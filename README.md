@@ -74,6 +74,12 @@ You should have [Node.js](https://nodejs.org/en/), [Yarn](https://classic.yarnpk
      http://localhost:4321/
    ```
 
+4. To run the test suite, run:
+
+   ```bash
+     yarn test
+   ```
+
 ## Contact 📧
 
 Sassan Shokoohi - sassansh@student.ubc.ca
